@@ -13,3 +13,12 @@ I devised a way to use ML on arduino to make better projects
 Step 1: Connect Arduino board or fix arduino board to laptop and configure Edge Impulse SDK
 
 <img src="https://github.com/steptostem/tinyML/blob/main/Images/20210617_225854_0000.png" height=30% width=30%>
+
+Step 2: Software setup
+We have used edge impulse which uses Tensorflow Lite Micro to perfrom ML on arduino.
+<img src="">
+
+```python
+import keras
+import tensorflow as tf
+```
