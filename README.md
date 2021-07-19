@@ -16,9 +16,9 @@ Step 1: Connect Arduino board or fix arduino board to laptop and configure Edge 
 
 Step 2: Software setup
 We have used edge impulse which uses Tensorflow Lite Micro to perfrom ML on arduino.
-<img src="">
 
 ```python
+# import all packages
 import keras
 import tensorflow as tf
 ```
