@@ -11,4 +11,5 @@ I devised a way to use ML on arduino to make better projects
 # Let's build it
 ## Hardware setup
 Step 1: Connect Arduino board or fix arduino board to laptop and configure Edge Impulse SDK
-<img src="">
+
+<img src="https://github.com/steptostem/tinyML/blob/main/Images/20210617_225854_0000.png" height=30% width=30%>
