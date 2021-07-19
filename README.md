@@ -1,5 +1,5 @@
 # Introduction
-<img src="http://d20tdhwx2i89n1.cloudfront.net/image/upload/t_next_gen_article_large_767/fmifksycwqv6aksccgko.jpg" height=50% width=50%>
+<img src="https://einsteinpros.com/wp-content/uploads/2017/11/leaking-faucet-guide-solutions.jpg" height=20% width=20%>
 This project aims to solve problem of using tinyML on low power deices.
 
 ## Background story
@@ -7,3 +7,8 @@ This project was inspiration from my past experience on using arduino devices bu
 
 ## My Solution
 I devised a way to use ML on arduino to make better projects
+
+# Let's build it
+## Hardware setup
+Step 1: Connect Arduino board or fix arduino board to laptop and configure Edge Impulse SDK
+<img src="">
